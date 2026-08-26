@@ -1,4 +1,11 @@
-**Read Me:
+**Read Me:**
+The Github user Vit9696 volunteered to take over this project, so you may follow his work here instead:
+https://github.com/acidanthera/AirportBrcmFixup/tree/vit9696-txchain-20260825
+
+This kext may still be used if you would like to not need the additional boot-arg for ideal c-state behavior. 
+Otherwise the code has been cleaned up and improved upon... Anyways here is the original ReadME:
+
+
 Below is a list of boot-args that may be used with this kext:**
 
 brcmfx-nss1=1 may be used to force NSS:1 (for testing purposes) 
